@@ -1,0 +1,28 @@
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/LevelParserTesting.dll
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/LevelParserTesting.pdb
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/nunit.framework.dll
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/SpaceTaxi_1.exe
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/DIKUArcade.dll
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/OpenTK.dll
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/SpaceTaxi_1.pdb
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/nunit.framework.xml
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/DIKUArcade.pdb
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/bin/Debug/OpenTK.xml
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csprojAssemblyReference.cache
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csproj.CoreCompileInputs.cache
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csproj.CopyComplete
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.dll
+C:/Users/Henrik Windum/Desktop/SU19-Exercises/su19-hold9-gruppe8/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.pdb
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/LevelParserTesting.dll
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/LevelParserTesting.pdb
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/OpenTK.dll
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/SpaceTaxi_1.exe
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/DIKUArcade.dll
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/SpaceTaxi_1.pdb
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/OpenTK.xml
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/bin/Debug/DIKUArcade.pdb
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csprojAssemblyReference.cache
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csproj.CoreCompileInputs.cache
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.csproj.CopyComplete
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.dll
+/home/jakob/Skrivebord/git/Clone/SU19-Exercises/LevelParserTesting/obj/Debug/LevelParserTesting.pdb
