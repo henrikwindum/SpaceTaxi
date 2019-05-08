@@ -41,10 +41,17 @@ namespace SpaceTaxi_1 {
             Entity.RenderEntity();
         }
 
+        private void Direction(Vec2F vec) {
+            shape.Direction = vec;
+        }
+
         public void ProcessEvent(GameEventType eventType, GameEvent<object> gameEvent) {
             if (eventType == GameEventType.PlayerEvent) {
                 switch (gameEvent.Message) {
-                // in the future, we will be handling movement here
+                case "BOOSTER_UPWARDS":
+                    var vec = new Vec2F(0.0f,0.15f);
+                    Direction(vec);
+                    break;
                 }
             }
         }

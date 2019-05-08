@@ -2,6 +2,7 @@
 <module type="RIDER_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../SU19-Exercises/su19-hold9-gruppe8/DIKUArcade/DIKUArcade" />
     <content url="file://$MODULE_DIR$/../.." />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

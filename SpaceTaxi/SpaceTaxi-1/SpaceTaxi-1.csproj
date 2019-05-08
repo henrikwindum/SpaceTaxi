@@ -49,6 +49,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpaceBus.cs" />
+    <Compile Include="SpaceStates\GameRunning.cs" />
     <Compile Include="SpaceStates\GameStateType.cs" />
     <Compile Include="SpaceStates\MainMenu.cs" />
     <Compile Include="SpaceStates\StateMachine.cs" />
@@ -58,6 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\DIKUArcade\DIKUArcade\DIKUArcade.csproj">
+      <Project>{a1e4e4df-0967-4096-9e3c-fbc29b7d07dd}</Project>
+      <Name>DIKUArcade</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\SU19-Exercises\su19-hold9-gruppe8\DIKUArcade\DIKUArcade\DIKUArcade.csproj">
       <Project>{a1e4e4df-0967-4096-9e3c-fbc29b7d07dd}</Project>
       <Name>DIKUArcade</Name>
     </ProjectReference>

@@ -20,6 +20,9 @@ namespace SpaceTaxi_1.SpaceStates {
             case GameStateType.MainMenu:
                 ActiveState = MainMenu.GetInstance();
                 break;
+            case GameStateType.GameRunning:
+                ActiveState = GameRunning.GetInstance();
+                break;
             }
         }
 

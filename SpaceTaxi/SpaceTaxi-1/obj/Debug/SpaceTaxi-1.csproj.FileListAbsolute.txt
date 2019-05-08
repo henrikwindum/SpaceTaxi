@@ -30,3 +30,14 @@ C:\Users\Henrik Windum\Desktop\SU19-Exercises\SU19-Hold9-Gruppe8-master\SU19-Exe
 C:\Users\Henrik Windum\Desktop\SU19-Exercises\SU19-Hold9-Gruppe8-master\SU19-Exercises\SpaceTaxi-1\bin\Debug\OpenTK.xml
 C:\Users\Henrik Windum\Desktop\SU19-Exercises\SU19-Hold9-Gruppe8-master\SU19-Exercises\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CopyComplete
 C:\Users\Henrik Windum\Desktop\SU19-Exercises\SU19-Hold9-Gruppe8-master\SU19-Exercises\SpaceTaxi-1\obj\Debug\SpaceTaxi_1.exe
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csprojAssemblyReference.cache
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CoreCompileInputs.cache
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi_1.exe
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi_1.pdb
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\SpaceTaxi_1.exe
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\SpaceTaxi_1.pdb
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\DIKUArcade.dll
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\OpenTK.dll
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\DIKUArcade.pdb
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\OpenTK.xml
+C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CopyComplete
