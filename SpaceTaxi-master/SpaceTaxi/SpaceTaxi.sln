@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTaxi-1", "SpaceTaxi-1\SpaceTaxi-1.csproj", "{069B7ECB-A99A-40DF-A213-9C7E54167858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelParserTesting", "LevelParserTesting\LevelParserTesting.csproj", "{D652C5CC-0A9D-4D58-BD77-919CD67F739B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIKUArcade", "..\..\SU19-Exercises\su19-hold9-gruppe8\DIKUArcade\DIKUArcade\DIKUArcade.csproj", "{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069B7ECB-A99A-40DF-A213-9C7E54167858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069B7ECB-A99A-40DF-A213-9C7E54167858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069B7ECB-A99A-40DF-A213-9C7E54167858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069B7ECB-A99A-40DF-A213-9C7E54167858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D652C5CC-0A9D-4D58-BD77-919CD67F739B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D652C5CC-0A9D-4D58-BD77-919CD67F739B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D652C5CC-0A9D-4D58-BD77-919CD67F739B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D652C5CC-0A9D-4D58-BD77-919CD67F739B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E4E4DF-0967-4096-9E3C-FBC29B7D07DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

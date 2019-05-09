@@ -1,0 +1,6 @@
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\bin\Debug\SpaceTaxi.exe
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\bin\Debug\SpaceTaxi.pdb
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\obj\Debug\SpaceTaxi.csprojAssemblyReference.cache
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\obj\Debug\SpaceTaxi.csproj.CoreCompileInputs.cache
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\obj\Debug\SpaceTaxi.exe
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\obj\Debug\SpaceTaxi.pdb

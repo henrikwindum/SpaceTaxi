@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Henrik Windum\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Henrik Windum\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_SpaceTaxi.-1405530880.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi" t="IncludeFlat">
+    <e p="C:\Users\labru\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\labru\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_SpaceTaxi.1158654616.00" t="ExcludeRecursive" />
+    <e p="C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi" t="IncludeFlat">
       <e p="LevelParserTesting" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="LevelParserTesting.csproj" t="IncludeRecursive" />
@@ -48,7 +48,7 @@
       </e>
       <e p="SpaceTaxi.sln" t="IncludeFlat" />
     </e>
-    <e p="C:\Users\Henrik Windum\Desktop\SU19-Exercises\su19-hold9-gruppe8\DIKUArcade\DIKUArcade" t="IncludeRecursive">
+    <e p="C:\Users\labru\Documents\GitHub\su19-H9-G2 - Kopi\DIKUArcade\DIKUArcade" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
       <e p="DIKUArcade.csproj" t="IncludeRecursive" />
       <e p="Entities" t="Include">

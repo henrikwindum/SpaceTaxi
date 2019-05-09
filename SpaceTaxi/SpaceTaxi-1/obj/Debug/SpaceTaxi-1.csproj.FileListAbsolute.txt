@@ -41,3 +41,14 @@ C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Deb
 C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\DIKUArcade.pdb
 C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\bin\Debug\OpenTK.xml
 C:\Users\Henrik Windum\Desktop\SpaceTaxiRepository\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CopyComplete
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csprojAssemblyReference.cache
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CoreCompileInputs.cache
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi_1.exe
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi_1.pdb
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\SpaceTaxi_1.exe
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\SpaceTaxi_1.pdb
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\DIKUArcade.dll
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\OpenTK.dll
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\DIKUArcade.pdb
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\bin\Debug\OpenTK.xml
+C:\Users\labru\Documents\GitHub\SpaceTaxi\SpaceTaxi\SpaceTaxi-1\obj\Debug\SpaceTaxi-1.csproj.CopyComplete
