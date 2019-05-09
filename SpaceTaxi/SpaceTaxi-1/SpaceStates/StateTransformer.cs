@@ -11,6 +11,8 @@ namespace SpaceTaxi_1.SpaceStates {
                 return GameStateType.GamePaused;
             case "MAIN_MENU":
                 return GameStateType.MainMenu;
+            case "GAME_OVER":
+                return GameStateType.GameOver;
             default:
                 throw new Exception("INVALID STRING");
             }
@@ -24,6 +26,8 @@ namespace SpaceTaxi_1.SpaceStates {
                 return "GAME_PAUSED";
             case GameStateType.MainMenu:
                 return "MAIN_MENU";
+            case GameStateType.GameOver:
+                return "GAME_OVER";
             default:
                 throw new Exception("INVALID STATE");
             }

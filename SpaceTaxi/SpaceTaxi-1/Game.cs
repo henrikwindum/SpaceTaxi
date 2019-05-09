@@ -15,18 +15,18 @@ namespace SpaceTaxi_1 {
         private GameTimer gameTimer;
         private Window win;
         private StateMachine stateMachine;
+        private Player player;
 
         public Game() {
             // window
             win = new Window("Space Taxi Game v0.1", 500, AspectRatio.R1X1);
-            
             
             // event bus
             SpaceBus.GetBus().InitializeEventBus(new List<GameEventType> {
                 GameEventType.InputEvent,  // key press / key release
                 GameEventType.WindowEvent, // messages to the window, e.g. CloseWindow()
                 GameEventType.GameStateEvent,  // commands issued to the player object, e.g. move,
-                GameEventType.PlayerEvent                           // destroy, receive health, etc.
+                GameEventType.PlayerEvent      // destroy, receive health, etc.
             });
             stateMachine = new StateMachine();
             win.RegisterEventBus(SpaceBus.GetBus());
@@ -63,6 +63,7 @@ namespace SpaceTaxi_1 {
                     // 1 second has passed - display last captured ups and fps from the timer
                     win.Title = "Space Taxi | UPS: " + gameTimer.CapturedUpdates + ", FPS: " +
                                  gameTimer.CapturedFrames;
+                    
                 }
             }
         }

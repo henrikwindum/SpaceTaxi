@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Threading;
 using DIKUArcade.EventBus;
 using DIKUArcade.State;
 using OpenTK.Graphics.OpenGL;
@@ -19,9 +20,16 @@ namespace SpaceTaxi_1.SpaceStates {
             switch (stateType) {
             case GameStateType.MainMenu:
                 ActiveState = MainMenu.GetInstance();
+                GameRunning.NewGetInstance();
                 break;
             case GameStateType.GameRunning:
                 ActiveState = GameRunning.GetInstance();
+                break;
+            case GameStateType.GamePaused:
+                ActiveState = GamePaused.GetInstance();
+                break;
+            case GameStateType.GameOver:
+                ActiveState = GameOver.GetInstance();
                 break;
             }
         }

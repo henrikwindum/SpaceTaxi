@@ -49,6 +49,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpaceBus.cs" />
+    <Compile Include="SpaceStates\GameOver.cs" />
+    <Compile Include="SpaceStates\GamePaused.cs" />
     <Compile Include="SpaceStates\GameRunning.cs" />
     <Compile Include="SpaceStates\GameStateType.cs" />
     <Compile Include="SpaceStates\MainMenu.cs" />

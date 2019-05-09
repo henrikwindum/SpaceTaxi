@@ -1,4 +1,6 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
+using System.Linq.Expressions;
 using DIKUArcade.Entities;
 using DIKUArcade.EventBus;
 using DIKUArcade.Graphics;
@@ -11,6 +13,16 @@ namespace SpaceTaxi_1 {
         private readonly DynamicShape shape;
         private Orientation taxiOrientation;
 
+        private Boolean MoveUp = false;
+        private Boolean MoveLeft = false;
+        private Boolean MoveRight = false;
+        
+        private Vec2F stopMovement = new Vec2F(0.0f, 0.0f);
+        private Vec2F moveUp = new Vec2F(0.0f,0.00005f);
+        private Vec2F moveLeft = new Vec2F(0.00005f,0.0f);
+        private Vec2F moveRight = new Vec2F(-0.00005f,0.0f);
+        
+
         public Player() {
             shape = new DynamicShape(new Vec2F(), new Vec2F());
             taxiBoosterOffImageLeft =
@@ -19,6 +31,7 @@ namespace SpaceTaxi_1 {
                 new Image(Path.Combine("Assets", "Images", "Taxi_Thrust_None_Right.png"));
 
             Entity = new Entity(shape, taxiBoosterOffImageLeft);
+            SpaceBus.GetBus().Subscribe(GameEventType.PlayerEvent,this);
         }
 
         public Entity Entity { get; }
@@ -41,18 +54,58 @@ namespace SpaceTaxi_1 {
             Entity.RenderEntity();
         }
 
-        private void Direction(Vec2F vec) {
-            shape.Direction = vec;
+        public void Gravity() {
+            shape.Direction.Y -= 0.00002f;
         }
-
+        
         public void ProcessEvent(GameEventType eventType, GameEvent<object> gameEvent) {
             if (eventType == GameEventType.PlayerEvent) {
                 switch (gameEvent.Message) {
                 case "BOOSTER_UPWARDS":
-                    var vec = new Vec2F(0.0f,0.15f);
-                    Direction(vec);
+                    MovementUp(shape.Direction);
                     break;
-                }
+                case "BOOSTER_TO_LEFT":
+                    MovementRight(shape.Direction);
+                    break;
+                case "BOOSTER_TO_RIGHT":
+                    MovementLeft(shape.Direction);
+                    break;
+                case "STOP_ACCELERATE_LEFT":
+                case "STOP_ACCELERATE_RIGHT":
+                case "STOP_ACCELERATE_UP":
+                    StopMovement(shape.Direction);
+                    break;
+                }   
+            }
+        }
+
+        private void MovementUp(Vec2F vec) {
+            MoveUp = true;
+        }
+        
+        private void MovementLeft(Vec2F vec) {
+            MoveLeft = true;
+        }
+
+        private void MovementRight(Vec2F vec) {
+            MoveRight = true;
+        }
+
+        private void StopMovement(Vec2F vec) {
+            MoveUp = false;
+            MoveRight = false;
+            MoveLeft = false;
+        }
+        
+        public void Movement() {
+            if (MoveUp) {
+                shape.Direction += moveUp;
+            }
+            if (MoveLeft) {
+                shape.Direction += moveLeft;
+            }
+            if (MoveRight) {
+                shape.Direction += moveRight;
             }
         }
     }

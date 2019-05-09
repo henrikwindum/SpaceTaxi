@@ -32,6 +32,8 @@
         </e>
         <e p="SpaceBus.cs" t="Include" />
         <e p="SpaceStates" t="Include">
+          <e p="GameOver.cs" t="Include" />
+          <e p="GamePaused.cs" t="Include" />
           <e p="GameRunning.cs" t="Include" />
           <e p="GameStateType.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
